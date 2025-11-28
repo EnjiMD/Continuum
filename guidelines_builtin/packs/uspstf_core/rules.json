@@ -1,0 +1,13 @@
+[
+  {
+    "id": "crc_45_75",
+    "category": "Screening",
+    "title": "Colorectal cancer screening (45–75)",
+    "summary": "Screen adults 45–75 years for colorectal cancer. Choose stool-based or direct visualization options based on patient preference and access.",
+    "clinician_use": "Use during wellness visits to ensure CRC screening is addressed and documented.",
+    "source": {
+      "publisher": "USPSTF",
+      "url": "https://www.uspreventiveservicestaskforce.org/"
+    }
+  }
+]
