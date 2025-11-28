@@ -1,0 +1,21 @@
+cat > docs/index.json <<EOF
+{
+  "schema_version": 1,
+  "updated_utc": "2025-11-27T00:00:00Z",
+  "packs": [
+    {
+      "id": "uspstf_core",
+      "title": "USPSTF Core Preventive Care",
+      "version": "1.0.0",
+      "manifest_url": 
+"https://raw.githubusercontent.com/EnjiMD/Continuum/main/docs/packs/uspstf_core/manifest.json",
+      "rules_url": 
+"https://raw.githubusercontent.com/EnjiMD/Continuum/main/docs/packs/uspstf_core/rules.json",
+      "sha256_manifest": "$MANIFEST_SHA",
+      "sha256_rules": "$RULES_SHA"
+    }
+  ]
+}
+EOF
+
+
