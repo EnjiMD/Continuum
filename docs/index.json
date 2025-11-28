@@ -1,21 +1,15 @@
-cat > docs/index.json <<EOF
 {
   "schema_version": 1,
-  "updated_utc": "2025-11-27T00:00:00Z",
+  "updated_utc": "2025-11-28T00:00:00Z",
   "packs": [
     {
       "id": "uspstf_core",
       "title": "USPSTF Core Preventive Care",
       "version": "1.0.0",
-      "manifest_url": 
-"https://raw.githubusercontent.com/EnjiMD/Continuum/main/docs/packs/uspstf_core/manifest.json",
-      "rules_url": 
-"https://raw.githubusercontent.com/EnjiMD/Continuum/main/docs/packs/uspstf_core/rules.json",
-      "sha256_manifest": "$MANIFEST_SHA",
-      "sha256_rules": "$RULES_SHA"
+      "manifest_url": "https://raw.githubusercontent.com/EnjiMD/Continuum/main/docs/packs/uspstf_core/manifest.json",
+      "rules_url": "https://raw.githubusercontent.com/EnjiMD/Continuum/main/docs/packs/uspstf_core/rules.json",
+      "sha256_manifest": "a72dc0428f4aa451cbd1a90c31282aa693428b73946f65252d6df93edd340021",
+      "sha256_rules": "94fcefa345ae40009fd44113ff4e8e0b6c42dbafb2c3751416961180906bdf97"
     }
   ]
 }
-EOF
-
-
