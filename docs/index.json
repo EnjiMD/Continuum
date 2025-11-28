@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_utc": "2025-11-28T00:00:00Z",
+  "updated_utc": "2025-11-28T15:26:40Z",
   "packs": [
     {
       "id": "uspstf_core",
@@ -8,8 +8,8 @@
       "version": "1.0.0",
       "manifest_url": "https://raw.githubusercontent.com/EnjiMD/Continuum/main/docs/packs/uspstf_core/manifest.json",
       "rules_url": "https://raw.githubusercontent.com/EnjiMD/Continuum/main/docs/packs/uspstf_core/rules.json",
-      "sha256_manifest": "a72dc0428f4aa451cbd1a90c31282aa693428b73946f65252d6df93edd340021",
-      "sha256_rules": "94fcefa345ae40009fd44113ff4e8e0b6c42dbafb2c3751416961180906bdf97"
+      "sha256_manifest": "c8135af5a12e85b3e01a4f8cf2472a189235b6808c43c25b55f0ec3c269f9b74",
+      "sha256_rules": "1c4bdd9bd719e762eb2513237752daa9204145cac30e3a57f8d0e843fdc0be22"
     }
   ]
 }
